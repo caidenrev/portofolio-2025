@@ -5,6 +5,18 @@
     { "source": "/about", "destination": "/about.html" },
     { "source": "/contact", "destination": "/contact.html" },
     { "source": "/archive", "destination": "/archive.html" },
-    { "source": "/404", "destination": "/404.html" }
+    { "source": "/404", "destination": "/404.html" },
+    { "source": "/work/frevan-shop", "destination": "/work/frevan-shop.html" },
+    { "source": "/work/gelora-library", "destination": "/work/gelora-library.html" },
+    { "source": "/work/krispy-bite", "destination": "/work/krispy-bite.html" },
+    { "source": "/work/learniverse-ai", "destination": "/work/learniverse-ai.html" },
+    { "source": "/work/lokerin", "destination": "/work/lokerin.html" },
+    { "source": "/work/lova-corner", "destination": "/work/lova-corner.html" },
+    { "source": "/work/neobooth", "destination": "/work/neobooth.html" },
+    { "source": "/work/paper-verse", "destination": "/work/paper-verse.html" },
+    { "source": "/work/Pixel-Learn", "destination": "/work/Pixel-Learn.html" },
+    { "source": "/work/playpro", "destination": "/work/playpro.html" },
+    { "source": "/work/SiRumed", "destination": "/work/SiRumed.html" },
+    { "source": "/work/timpa-verse", "destination": "/work/timpa-verse.html" }
   ]
 }
